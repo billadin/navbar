@@ -1,4 +1,4 @@
-### React navbar
+# React navbar
 
 ## Figma URL
 
